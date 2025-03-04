@@ -1,5 +1,5 @@
 Hello World!!
 Nothing
 Two file is created
-c=200
-print c
+c=10
+print(c)
